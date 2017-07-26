@@ -1,0 +1,121 @@
+ /*Andrew Givans*/
+
+/*Email header*/
+div.email{
+	float: left;
+ 	border-color: black;
+ 	border-style: solid;
+ 	/*text-align: center;*/
+ 	background-color: teal;
+ 	width: 100%;
+ 	height: 4%;
+}
+
+/* Office Hour Set Up Header Style */
+ div.hourSetHeader {
+ 	float: left;
+ 	border-color: black;
+ 	border-style: solid;
+ 	text-align: center;
+ 	background-color: teal;
+ 	width: 16%;
+ 	height: 3%;
+
+ }
+
+/*Office Hours Set Up Style*/
+div.hourSet {
+	float: left;
+	width: 16%;
+	height: 20% ;
+    background-color: gainsboro;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/* Calendar style */
+div.calendar {
+	width: 100%;
+	height: 100% ;
+    background-color: gainsboro;
+    border-color: black;
+    border-style: solid;
+ }
+
+/* Calendar header style */
+ div.monthHeader {
+ 	background-color: teal;
+ 	text-align: center;
+ 	font-size: 20px;
+ 	width: 100%;
+ 	height: 6%;
+ 	padding-top: 10px;
+ }
+
+/* Calendar weekday labels style */
+ div.weekday {
+ 	float: left;
+ 	border-color: black;
+ 	border-style: solid;
+ 	text-align: center;
+ 	background-color: teal;
+ 	width: 13.5%;
+ 	height: 3%;
+
+ }
+/* Day on the calendar style */
+ div.day{
+ 	float: left;
+ 	border-color: black;
+ 	border-style: solid;
+ 	text-align: left;
+ 	background-color: gainsboro;
+ 	width: 13.5%;
+ 	height: 16.5%;
+ }
+ 
+/* home link style */
+div.homeLink {
+
+	margin-left: 20%;
+}
+
+h1 {
+	
+    color: blue;
+    background-color: gainsboro;
+    font-family: arial;
+    font-size: 20px;
+}  
+
+h2 {
+	color: white;
+    background-color: teal;
+    font-family: arial;
+    font-size: 20px;
+    padding-left: 10px;
+
+}
+
+#a {
+	color: green;
+	background-color: gainsboro;
+	font-weight: bold;
+
+}
+
+p {
+
+	text-align: center;
+}
+
+div.labContent{
+	background-color: gainsboro;
+	width: 78%;
+	height: 600px ;
+	float: left;
+	clear: right;
+
+}
